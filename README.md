@@ -43,3 +43,4 @@ npm run build
 npm run lint
 ```
 "# Vue0422" 
+"# Kadai2" 
